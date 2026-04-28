@@ -1,0 +1,24 @@
+{
+  "image_digests": {
+    "/con_debater": "ghcr.io/staverm/simple-agent@sha256:603b762edfd011034696ff9e1ccbca78026570d531b2e63c784eb6126cd9b38c",
+    "/gateway": "ghcr.io/rdi-foundation/agentbeats-gateway@sha256:3f9976889c598092dc4273312ec431cbc48bbe064ff65b5613425f4990bc1d4c",
+    "/green": "ghcr.io/rdi-foundation/agentbeats-tutorial-debate-judge@sha256:c3b5f8efd0d55457c11dc27a329197121ebdbdc556b4c43fff1d369d805c5368",
+    "/pro_debater": "ghcr.io/staverm/simple-agent@sha256:603b762edfd011034696ff9e1ccbca78026570d531b2e63c784eb6126cd9b38c"
+  },
+  "manifest_digests": {
+    "/": "sha256:LpYb5Xu/F6bMWDHEmsArtVSzSHC11x/nEWZa/6FSvaY=",
+    "/con_debater": "sha256:vwjjy2FQZCTWjvn1roYBSfUuLj952rxWMAfsH21rYp0=",
+    "/gateway": "sha256:55vdRwO+54k8WBZhh3nrN6Gn7cnk/+hm1dG+xt/GYSE=",
+    "/green": "sha256:FdyCpQlK8RDIhYAb7zuuswmei3quoifzNI08XEndOdU=",
+    "/pro_debater": "sha256:vwjjy2FQZCTWjvn1roYBSfUuLj952rxWMAfsH21rYp0="
+  },
+  "timestamp": "2026-04-28T16:47:32Z",
+  "github_actions": {
+    "run_url": "https://github.com/aefhm/debate-leaderboard-04-28-staging/actions/runs/25065859924",
+    "ref": "refs/pull/7/merge",
+    "sha": "fe91fea676bc148035db51e3e173a22073dab131",
+    "repository_url": "https://github.com/aefhm/debate-leaderboard-04-28-staging",
+    "workflow_ref": "aefhm/debate-leaderboard-04-28-staging/.github/workflows/quick-submit.yml@refs/pull/7/merge",
+    "workflow_sha": "fe91fea676bc148035db51e3e173a22073dab131"
+  }
+}
